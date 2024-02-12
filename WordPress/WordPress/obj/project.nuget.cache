@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVopoV7PsN1/2P6xnuTJdR+fnJqJLS7Koe762mkuvMv4kRjTSgp/JLzNTYZeAl3hHUg24CIAc0/XC4cGO4mrcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\Desafio\\WordPress\\WordPress\\WordPress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Segredo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\selenium.support\\4.16.2\\selenium.support.4.16.2.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.10900\\selenium.webdriver.chromedriver.120.0.6099.10900.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\selenium.webdriverbackedselenium\\4.1.0\\selenium.webdriverbackedselenium.4.1.0.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Segredo\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
